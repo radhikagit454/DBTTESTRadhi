@@ -1,7 +1,6 @@
 
-version: 2
 sources:
-  - name: Demo
+  - name: demo
     database: DEMO
     schema: DEMO_SCHEMA
     tables:
