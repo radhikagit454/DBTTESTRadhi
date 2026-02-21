@@ -1,0 +1,1 @@
+select * from {{ source('Demo', 'weather') }} Limit 10;
