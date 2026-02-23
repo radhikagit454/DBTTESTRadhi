@@ -1,1 +1,1 @@
-select * from {{ source('Demo', 'weather') }} Limit 10;
+select * from {{ source('demo', 'weather') }} Limit 10;
